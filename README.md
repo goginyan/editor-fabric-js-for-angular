@@ -1,13 +1,8 @@
-# angular-editor-fabric-js
+# fabric-js
 
 > Drag-and-drop editor based on Fabricjs for Angular v5 with multiple options
 
 ### Preview
-![](https://s1.gifgif.io/0qQV2a.gif)
-### Example
-![Imgur](https://i.imgur.com/sQsL8G4.png)
-### Output
-![Imgur](https://i.imgur.com/hgTEb20.png)
 
 ### Features
 * Export to image
@@ -19,14 +14,11 @@
 * Add text
 * Add Images
 * Upload Images
-* Add figures (Rectangle, Triangle, Square, Circle)
-* Render to JSON
 * Clone Object
 * Sent to front Object
 * Sent to back Object
 * Delete Object
 * Unselect Object
-* Add ID to Object
 * Opacity to Object
 * Color to Object
 * Font Famility to Object
@@ -34,15 +26,16 @@
 * Style to Object
 * Font Size to Object
 * Line Height To Object
-* Char Spacing to Object
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
 ## Installation
 
 ```bash
-git clone https://github.com/kevoj/angular-editor-fabric-js.git
-cd angular-editor-fabric-js
+git clone https://github.com/goginyan/editor-fabric-js-for-angular.git
+
+cd editor-fabric-js-for-angular.git
 npm install
 ```
 ## Start
